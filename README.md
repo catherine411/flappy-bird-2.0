@@ -1,4 +1,4 @@
-#Flappy Bird 2.0
+# Flappy Bird 2.0
 
 Devastated that the original Flappy Bird was no longer available on the App Store, I wanted to make my own version of the game. Flappy Bird 2.0 is an arcade-style single-person game where the player is in control of a bird icon that is moving persistently to the right (as shown by a parallax background). 
 
